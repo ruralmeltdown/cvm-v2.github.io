@@ -1,5 +1,5 @@
 ---
-date: 2018-10-06
+date: 2024-10-06
 title: Easy documentation with Docsy
 linkTitle: Announcing Docsy
 description: >
@@ -11,6 +11,7 @@ resources:
     title: "Image #:counter"
     params:
       byline: "Photo: Riona MacNamara / CC-BY-CA"
+draft: true
 ---
 
 **This is a typical blog post that includes images.**

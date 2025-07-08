@@ -1,29 +1,41 @@
 ---
-title: Goldydocs
+title: Central Valley Mesh
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+{{< blocks/cover image_anchor="top" height="full" >}}
+<div>
+  <h1 class="home_header">Welcome to<br />Central Valley Mesh:<br />A Meshtastic Community Site!</h1>
+<img src="central-valley-mesh.png" alt="My Logo" style="width:250px;">
+</div>
+<br />
+<br />
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Read Our Docs &nbsp;<i class="fa-solid fa-book"></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/blog/">
+  Check Out Our Builds &nbsp;<i class="fa-solid fa-screwdriver-wrench"></i>
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://discord.com/invite/9KUu5QQqMx">
+  Discord <i class="fab fa-github ms-2 "></i>
+</a>
+<!-- <p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p> -->
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+Welcome to the [Meshtastic](https://meshtastic.org/) Community Page for the [Central Valley of California, USA](https://en.wikipedia.org/wiki/Central_Valley_(California))!
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+Please note that our website is a work in progress, so the layout and/or content may change, so please check back often. We're working hard to bring you a fantastic online experience! While our website is still being built, we invite you to join our community on Discord for the latest updates & discussions: [Join Our Discord Community](https://discord.gg/9KUu5QQqMx). We can't wait to see you there!
+
+Please check back soon for more updates.
 {{% /blocks/lead %}}
 
 
+<!-- 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
 The Goldydocs UI now shows chair size metrics by default.
@@ -74,4 +86,4 @@ For announcement of latest features etc.
 {{% blocks/section %}}
 This is the another section
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->

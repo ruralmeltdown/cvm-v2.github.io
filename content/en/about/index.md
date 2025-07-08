@@ -1,26 +1,22 @@
 ---
-title: About Goldydocs
+title: About Central Valley Mesh
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
-
-A sample site using the Docsy Hugo theme.
-{.mt-5}
-
+{{% blocks/cover image_anchor="bottom" height="auto" %}}
+<div>
+  <h1 class="home_header">About Us</h1>
+</div>
 {{% /blocks/cover %}}
 
-{{% blocks/lead %}}
-
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
-
-{{% /blocks/lead %}}
-
 {{% blocks/section %}}
+
+This is a website for the [Meshtastic](https://meshtastic.org/) Community members that reside in [Central Valley of California, USA](https://en.wikipedia.org/wiki/Central_Valley_(California)). We welcome all to [join our Discord](https://discord.gg/9KUu5QQqMx), even if you're not in the area. Don't worry if you're not in the area, there are other fantastic Meshtastic communities in [California](https://meshtastic.org/docs/community/local-groups/#california), or all around [the world](https://meshtastic.org/docs/community/local-groups/).
+
+{{% /blocks/section %}}
+
+<!-- {{% blocks/section %}}
 
 # This is another section
 {.text-center}
@@ -32,4 +28,4 @@ different sections of the documentation and site for more ideas.
 # This is another section
 {.text-center}
 
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
