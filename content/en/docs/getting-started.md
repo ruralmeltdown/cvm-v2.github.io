@@ -2,7 +2,6 @@
 title: Getting Started
 description: Getting Started Guide for Meshtastic
 date: 2024-06-06
-weight: 2
 ---
 
 ## Overview

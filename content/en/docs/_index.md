@@ -6,6 +6,8 @@ menu: {main: {weight: 20}}
 
 ## Meshtastic.Org
 
+---
+
 - [Getting Started](https://meshtastic.org/docs/getting-started/)
 - [Hardware](https://meshtastic.org/docs/hardware/)
 - [Software](https://meshtastic.org/docs/software/)
