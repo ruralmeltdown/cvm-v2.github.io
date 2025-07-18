@@ -6,4 +6,4 @@ This repository contains all the code for the Central Valley Mesh website, avail
 
 The site is created using [Hugo](https://gohugo.io) framework, is using the [Docsy theme](https://github.com/google/docsy), and is hosted using GitHub Pages.
 
-For administration assistance, please connect with us in our [Discord Community](https://discord.gg/9KUu5QQqMx).
+For administration assistance, please connect with us in our [Discord Community](https://discord.gg/9KUu5QQqMx) in the website channel.

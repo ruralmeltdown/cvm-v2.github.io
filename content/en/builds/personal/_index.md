@@ -3,4 +3,4 @@ title: Personal
 weight: 20
 type: blog
 ---
-Check back soon!
+Posts are listed in reverse chronological order.
