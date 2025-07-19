@@ -31,5 +31,3 @@ This setup is currently using the case that a [Heltec V3 board](https://heltec.o
     </a>
   </div>
 </div>
-
-{{< image-gallery gallery_dir="gallery" >}}
