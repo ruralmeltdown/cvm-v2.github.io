@@ -33,7 +33,7 @@ date: 2025-07-08
 - No license is needed at all. Tech know-how is a bonus, but not needed either.
 
 <h3 id="q3">Where can I get help?</h3>  
-- Our community on [Discord](https://discord.com/invite/9KUu5QQqMx), or any of the other [Meshtastic communities](https://meshtastic.org/docs/community/local-groups/), or at [Meshtastic.org](https://www.Meshtastic.org)
+- Our community on <a href="https://discord.com/invite/9KUu5QQqMx">Discord</a>, or any of the other <a href="https://meshtastic.org/docs/community/local-groups/">Meshtastic communities</a>, or at <a href="https://www.Meshtastic.org">Meshtastic.org</a>.
 
 <h3 id="q4">How much does this cost?</h3>  
 - The only cost is the hardware and your time.
